@@ -1,0 +1,6 @@
+{
+  "name": "School Replay",
+  "description": "แอปพลิเคชันช่วยจัดการชีวิตนักเรียน รวมตารางเรียน การแจ้งเตือน สรุปบทเรียน การบ้าน และภารกิจประจำวัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
